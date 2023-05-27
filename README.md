@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Kidus Gizaw - [Github](https://github.com/kidusgr) / [Twitter](https://twitter.com/kidusgr)
+
 Johnson Ajayi - [Github](https://github.com/Jaycode068)
 
 ## License
